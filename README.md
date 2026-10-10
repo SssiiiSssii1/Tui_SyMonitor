@@ -1,5 +1,5 @@
 # sysmon-tui
-![Image description](./Ex.png)   
+![Image description](./imgs/Ex.png)   
 
 A terminal system monitor built with [Bubble Tea](https://charm.land) and
 [gopsutil](https://github.com/shirou/gopsutil).
